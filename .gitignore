@@ -1,10 +1,6 @@
-# 不传 dsh 皮肤文件夹
 dsh-deep-whale-main/
-
-# 不传给 dsh 看的 README
 README.md
 
-# 安卓构建产物（双保险，android/ 内的 .gitignore 也会处理）
 build/
 .gradle/
 local.properties
