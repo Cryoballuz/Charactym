@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 画框：代表 256×256 黑白画布 -->
+    <path
+        android:pathData="M38,38 L70,38 L70,70 L38,70 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:fillColor="#00000000"
+        android:strokeLineJoin="round" />
+    <!-- 框内对角线十字：代表书写的人造文字 -->
+    <path
+        android:pathData="M43.5,43.5 L64.5,64.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M43.5,64.5 L64.5,43.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round" />
+</vector>
